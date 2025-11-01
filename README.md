@@ -1,4 +1,4 @@
-# Sagar_Dhawane.github.io
+# sagar-dhawane.github.io
 
 # SAGAR DHAWANE
 ## Cloud & Agentic AI Data Engineer
